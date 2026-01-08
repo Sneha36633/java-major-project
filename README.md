@@ -27,10 +27,15 @@ It helps businesses keep track of stock, reduce manual work, and improve invento
 ## 📂 Project Structure  
 
 StockWiseSystemJava/
+
 │── src/
+
 │── lib/
+
 │── out/
+
 │── inventory.db
+
 │── README.md
 ---
 
