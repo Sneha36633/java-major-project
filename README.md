@@ -37,6 +37,7 @@ StockWiseSystemJava/
 │── inventory.db
 
 │── README.md
+
 ---
 
 ## ▶ How to Run the Project  
@@ -50,7 +51,7 @@ StockWiseSystemJava/
 
 ## 👩‍💻 Author  
 **Sneha Gade**  
-BCA Student  
+B.Tech(CSE) Student  
 Invertis University  
 
 ---
